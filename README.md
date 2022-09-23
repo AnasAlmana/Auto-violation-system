@@ -16,5 +16,3 @@ The second model was built using image classification pre-trained model named `V
 You will see the training source code and details in the file `Classification.ipynp`.
 
 
-You can try the project through this website:
-http://157.175.176.119
