@@ -1,5 +1,5 @@
 # Seatbelt-Phone-Violation-Detector
-This project is to detect Seatbelt and Phone violations using AI..How it works, let's see>>
+Detecting Seatbelt and Phone violations using AI..How it works, let's see>>
 
 ## We have done this project using two models:
 
